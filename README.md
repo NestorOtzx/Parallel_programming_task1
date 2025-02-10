@@ -70,3 +70,10 @@ Este programa, una vez compilado, requiere de dos argumentos para ejecutarse y e
    ./montepi <número de hilos> <numero_de_iteraciones>
 ```
 
+
+## Video de análisis
+
+En este video se realizan análisis sobre los resultados obtenidos.
+
+https://youtu.be/WAxRDv1M7H0
+
